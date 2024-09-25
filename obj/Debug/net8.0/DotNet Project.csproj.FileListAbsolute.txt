@@ -1,0 +1,30 @@
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\appsettings.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.staticwebassets.runtime.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.exe
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.deps.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.runtimeconfig.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.dll
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\bin\Debug\net8.0\DotNet Project.pdb
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.AssemblyInfoInputs.cache
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.AssemblyInfo.cs
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.csproj.CoreCompileInputs.cache
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.RazorAssemblyInfo.cache
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.RazorAssemblyInfo.cs
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets\msbuild.DotNet Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNet Project.props
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNet Project.props
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNet Project.props
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\scopedcss\bundle\DotNet Project.styles.css
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\scopedcss\projectbundle\DotNet Project.bundle.scp.css
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.dll
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\refint\DotNet Project.dll
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.pdb
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\DotNet Project.genruntimeconfig.cache
+C:\Users\ameer\OneDrive\Desktop\DotNet Project\obj\Debug\net8.0\ref\DotNet Project.dll
